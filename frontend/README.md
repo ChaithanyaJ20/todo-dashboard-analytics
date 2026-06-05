@@ -47,15 +47,23 @@ todo-fullstack/
 └── README.md
 ```
 
-## Screenshots
+# Screenshots
 
-### Dashboard Overview
+## Dashboard Overview
+Shows completed tasks, pending tasks, and productivity summary.
 
-(Add screenshot here)
+![Dashboard Overview](assets/dashboard-overview.png)
 
-### Task Analytics
+## Task Analytics
+Interactive pie chart showing task distribution.
 
-(Add screenshot here)
+![Task Analytics](assets/analytics-chart.png)
+
+## Task Management
+Create, edit, delete, and update task status.
+
+![Task Management](assets/task-management.png)
+
 
 ## Installation
 
