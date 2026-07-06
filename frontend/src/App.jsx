@@ -17,7 +17,7 @@ function App() {
   const [editingId, setEditingId] = useState(null);
   const [editText, setEditText] = useState("");
 
-  const API_URL = "http://localhost:5000/todos";
+  const API_URL = `${import.meta.env.VITE_API_URL}/todos`;
 
   useEffect(() => {
     getTodos();
